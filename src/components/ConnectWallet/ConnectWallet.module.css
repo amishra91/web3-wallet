@@ -1,0 +1,10 @@
+.connectWalletBtn {
+  cursor: pointer;
+  padding: 0.75rem 0.875rem;
+  background-color: #f0a631;
+  color: #000;
+  font-size: 1.125rem;
+  box-shadow: none;
+  border-radius: 0.25rem;
+  border: 0;
+}
